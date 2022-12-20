@@ -10,7 +10,7 @@ body {
         text-align: center;
         margin: auto;
         margin-top: 5mm;
-        
+        width: fit-content;
 }
 #h3title {
        color: slateblue;
