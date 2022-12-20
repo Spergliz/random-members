@@ -3,5 +3,7 @@ body {
         background: rgb(88, 45, 87);
         width: 500px;
         margin: auto
-        
+}
+#h1title {
+        color: rgb(219, 93, 20);
 }
