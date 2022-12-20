@@ -6,4 +6,12 @@ body {
 }
 #h1title {
         color: rgb(219, 93, 20);
+        border: 1px rgb(219, 93, 20) solid;
+        text-align: center;
+        margin: auto;
+        margin-top: 5mm;
+        
+}
+#h3title {
+       color: slateblue;
 }
