@@ -3,7 +3,7 @@ let btnE1 = document.getElementById("clicker");
 let outputE1 = document.getElementById("output");
 let members = [];
 
-btnE1.addEventListener("click", addpeople)
+btnE1.addEventListener("click", randomizer)
 
 function addpeople() {
   members.push(newpeople(memberE1.value));
@@ -12,9 +12,10 @@ function addpeople() {
 function display(){
 
 }
-function randomizer(){
-    let A = members.N+Math.random
-    console.log(A)
+function groupcreate(){
+    let G = prompt("how many groups do you want to create")
+    members.
+    
 }
 console.log(randomizer)
 function newpeople(name) {
@@ -22,3 +23,4 @@ function newpeople(name) {
     N: name,
   };
 }
+// let user chose groups, take groups, give members to those groups, display groups  DONE, 
